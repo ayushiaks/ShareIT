@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane minHeight="0.0" minWidth="0.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane minHeight="0.0" minWidth="0.0" prefHeight="800.0" prefWidth="600.0">
+        <content>
+            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="802.0" prefWidth="607.0">
+               <children>
+                  <VBox prefHeight="200.0" prefWidth="100.0">
+                     <children>
+                        <Button mnemonicParsing="false" text="Button" />
+                        <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" text="Button" />
+                        <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" text="Button" />
+                        <Button layoutX="10.0" layoutY="49.0" mnemonicParsing="false" text="Button" />
+                        <TextField minHeight="500.0" minWidth="500.0" />
+                     </children>
+                  </VBox>
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>
