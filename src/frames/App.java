@@ -12,6 +12,7 @@ public class App extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("FXMLLogin.fxml"));
         Scene scene = new Scene(root);
         stage.setScene(scene);
+       // scene.getStylesheets().add("frames/sell.css");
         stage.show();
     }
 
