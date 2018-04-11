@@ -1,0 +1,31 @@
+.anchor {
+    -fx-background-image:url('/frames/bg3.jpg');
+   -fx-background-repeat: no-repeat;
+       -fx-background-position: center;
+       -fx-background-size: cover;
+       width: 100%;
+       height: 100%;
+   }
+   .menu {
+       -fx-background-image:url('/frames/bg3.jpg');
+      -fx-background-repeat: no-repeat;
+          -fx-background-position: center;
+          -fx-background-size: cover;
+          width: 100%;
+          height: 100%;
+      }
+      .ab {
+             -fx-background-image:url('/frames/bg.jpg');
+            -fx-background-repeat: no-repeat;
+                -fx-background-position: center;
+                -fx-background-size: cover;
+                width: 100%;
+                height: 100%;
+            }
+      .jfx-text-field .jfx-password-field {
+        -fx-prompt-text-fill: WHITE;
+        -jfx-focus-color: WHITE;
+        -jfx-unfocus-color: WHITE;
+
+      }
+

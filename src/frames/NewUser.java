@@ -26,12 +26,19 @@ public class NewUser implements Initializable{
     @FXML
     private PasswordField textPassword;
 
+    @FXML
+    private TextField textHostel;
+
+    @FXML
+    private TextField textContact;
+
     Stage dialogStage = new Stage();
     Scene scene;
 
     Connection connection = null;
     PreparedStatement preparedStatement = null;
     ResultSet resultSet = null;
+    ResultSet rst = null;
 
     public NewUser() {
         connection = util.Connect.connectdb();
@@ -41,14 +48,19 @@ public class NewUser implements Initializable{
     private void handleNewUser(ActionEvent event) {
         String name = textName.getText();
         String password = textPassword.getText();
+        String hostel = textHostel.getText();
+        String contact = textContact.getText();
 
-        String sql = " insert into login (name, password)"
-                + " values (?, ?)";
+        String sql = " insert into login (name, password, hostel, contact)"
+                + " values (?, ?, ?, ?)";
 
         try{
             preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setString(1, name);
             preparedStatement.setString(2, password);
+            preparedStatement.setString(3, hostel);
+            preparedStatement.setString(4, contact);
+
             //resultSet = preparedStatement.executeQuery();
             preparedStatement.executeUpdate();
             System.out.println(resultSet);
@@ -73,6 +85,20 @@ public class NewUser implements Initializable{
         alert.setHeaderText(headerMessage);
         alert.setContentText(infoMessage);
         alert.showAndWait();
+    }
+    @FXML
+    private void goBack(ActionEvent event) {
+        try{
+            Node source = (Node) event.getSource();
+            dialogStage = (Stage) source.getScene().getWindow();
+            dialogStage.close();
+            scene = new Scene(FXMLLoader.load(getClass().getResource("/frames/FXMLLogin.fxml")));
+            dialogStage.setScene(scene);
+            dialogStage.show();
+        }
+        catch(Exception e){
+            e.printStackTrace();
+        }
     }
 
     @Override

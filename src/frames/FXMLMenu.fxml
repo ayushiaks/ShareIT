@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Button?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
 
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="frames.Menu">
-    <children>
-        <Button fx:id="UserProfile" layoutX="102.0" layoutY="75.0" mnemonicParsing="false" onAction="#handleUserProfile" text="User Profile" />
-        <Button layoutX="416.0" layoutY="75.0" mnemonicParsing="false" text="Notifications" />
-        <Button layoutX="269.0" layoutY="137.0" mnemonicParsing="false" text="Buy" />
-        <Button layoutX="269.0" layoutY="224.0" mnemonicParsing="false" onAction="#handleSellButton" text="Sell" />
-        <Button layoutX="269.0" layoutY="315.0" mnemonicParsing="false" text="Rent" />
-    </children>
-</AnchorPane>
+<BorderPane fx:id="main_border_pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="150.0" minWidth="5.0" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="frames.Menu">
+    <left>
+        <AnchorPane minHeight="150.0" minWidth="50.0" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #b5b3b3;" BorderPane.alignment="CENTER">
+            <children>
+                <TreeView fx:id="tree" minHeight="200.0" minWidth="200.0" onContextMenuRequested="#treeClick" onMouseClicked="#treeClick" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #b5b3b3;" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="5.0">
+                    <opaqueInsets>
+                        <Insets right="10.0" top="10.0" />
+                    </opaqueInsets>
+                </TreeView>
+            </children>
+        </AnchorPane>
+    </left>
+    <padding>
+        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+    </padding>
+    <top>
+        <HBox maxHeight="50.0" minHeight="50.0" prefHeight="50.0" style="-fx-background-color: #595858;" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="49.0" fitWidth="190.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@bg4.jpg" />
+               </image>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </ImageView>
+         </children></HBox>
+    </top>
+    <bottom>
+        <HBox prefHeight="50.0" style="-fx-background-color: #595858;" BorderPane.alignment="CENTER" />
+    </bottom>
+    <center>
+        <HBox fx:id="center_hbox" maxHeight="600.0" style="-fx-background-color: #ffffff;" styleClass="menu" stylesheets="@app1.css" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="WELCOME" />
+         </children></HBox>
+    </center>
+</BorderPane>

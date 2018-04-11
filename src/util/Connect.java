@@ -13,9 +13,7 @@ public class Connect {
             Class.forName("com.mysql.jdbc.Driver");
             Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/app","root","2016587");
             return conn;
-        }
-        catch(Exception e)
-        {
+        } catch(Exception e) {
             JOptionPane.showMessageDialog(null, e);
             return null;
         }

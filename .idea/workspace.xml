@@ -2,11 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/frames/FXMLRent.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frames/Rent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/Buy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/Buy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/FXMLBuy.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/FXMLBuy.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/FXMLLogin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/FXMLLogin.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/FXMLMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/FXMLMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/FXMLNewUser.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/FXMLNewUser.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/FXMLNotify.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/FXMLNotify.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/FXMLSell.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/FXMLSell.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/FXMLUserProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/FXMLUserProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/Menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/Menu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/NewUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/NewUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/Notifs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/Notifs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/Sell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/Sell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/frames/UserProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/frames/UserProfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/Buy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Buy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/FXMLBuy.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/FXMLBuy.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/FXMLLogin.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/FXMLLogin.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/FXMLMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/FXMLMenu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/FXMLNewUser.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/FXMLNewUser.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/FXMLNotify.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/FXMLNotify.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/FXMLSell.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/FXMLSell.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/FXMLUserProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/FXMLUserProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/frames/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/NewUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/NewUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/Notifs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Notifs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/frames/Sell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Sell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/UserProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/UserProfile.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +45,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ShareIT$Main.ic" NAME="Main Coverage Results" MODIFIED="1523616707821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sample.*</FILTER>
+    </SUITE>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -59,67 +92,38 @@
     <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="Sell.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/frames/Sell.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="202">
-                    <caret line="65" selection-start-line="65" selection-end-line="65" />
-                    <folding>
-                      <element signature="imports" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/frames/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+      <file leaf-file-name="Connection" pinned="false" current-in-tab="false">
+        <entry file="db://e2d83124-c76e-4427-a4f0-0ab37616be0c/console#Connection">
+          <provider selected="true" editor-type-id="0.CONSOLE">
+            <state line="25" column="0" selection-start="612" selection-end="612" vertical-scroll-proportion="-10.416667" current-schema="app" session-id="MAIN">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Connect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/util/Connect.java">
+      <file leaf-file-name="FXMLBuy.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frames/FXMLBuy.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
-      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/frames/Menu.java">
+      <file leaf-file-name="FXMLNewUser.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frames/FXMLNewUser.fxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file leaf-file-name="NewUser.java" pinned="false" current-in-tab="false">
@@ -127,6 +131,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frames/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,28 +147,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Connection" pinned="false" current-in-tab="false">
-        <entry file="db://e2d83124-c76e-4427-a4f0-0ab37616be0c/console#Connection">
-          <provider selected="true" editor-type-id="0.CONSOLE">
-            <state line="8" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" current-schema="app" session-id="MAIN">
-              <folding />
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/frames/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products" pinned="false" current-in-tab="true">
-        <entry file="db://e2d83124-c76e-4427-a4f0-0ab37616be0c/object#[schema/table][app/products]">
-          <provider selected="true" editor-type-id="1.DATA">
-            <state row-count="2" readonly="false">
-              <columns>
-                <column name="id" position="0" visible="true" />
-                <column name="pname" position="1" visible="true" />
-                <column name="rating" position="3" visible="true" />
-                <column name="cost" position="4" visible="true" />
-                <column name="details" position="5" visible="true" />
-              </columns>
-              <sorting />
-              <content-types />
+      <file leaf-file-name="app1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frames/app1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -163,11 +168,51 @@
       <file leaf-file-name="login" pinned="false" current-in-tab="false">
         <entry file="db://e2d83124-c76e-4427-a4f0-0ab37616be0c/object#[schema/table][app/login]">
           <provider selected="true" editor-type-id="1.DATA">
-            <state row-count="7" readonly="false">
+            <state row-count="4" readonly="false">
               <columns>
                 <column name="id" position="0" visible="true" />
                 <column name="name" position="1" visible="true" />
                 <column name="password" position="2" visible="true" />
+                <column name="hostel" position="3" visible="true" />
+                <column name="contact" position="4" visible="true" />
+              </columns>
+              <sorting />
+              <content-types />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products_rent" pinned="false" current-in-tab="false">
+        <entry file="db://e2d83124-c76e-4427-a4f0-0ab37616be0c/object#[schema/table][app/products_rent]">
+          <provider selected="true" editor-type-id="1.DATA">
+            <state row-count="0" readonly="false">
+              <columns>
+                <column name="id" position="0" visible="true" />
+                <column name="name" position="1" visible="true" />
+                <column name="pname" position="2" visible="true" />
+                <column name="rating" position="3" visible="true" />
+                <column name="cost" position="4" visible="true" />
+                <column name="details" position="5" visible="true" />
+                <column name="category" position="6" visible="true" />
+              </columns>
+              <sorting />
+              <content-types />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products_sell" pinned="false" current-in-tab="false">
+        <entry file="db://e2d83124-c76e-4427-a4f0-0ab37616be0c/object#[schema/table][app/products_sell]">
+          <provider selected="true" editor-type-id="1.DATA">
+            <state row-count="0" readonly="false">
+              <columns>
+                <column name="id" position="0" visible="true" />
+                <column name="name" position="1" visible="true" />
+                <column name="pname" position="2" visible="true" />
+                <column name="rating" position="3" visible="true" />
+                <column name="cost" position="4" visible="true" />
+                <column name="details" position="5" visible="true" />
+                <column name="category" position="6" visible="true" />
               </columns>
               <sorting />
               <content-types />
@@ -180,8 +225,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -193,6 +238,19 @@
       <find>UserProfile</find>
       <find>event</find>
       <find>dialo</find>
+      <find>mouse</find>
+      <find>add</find>
+      <find>name</find>
+      <find>gdg</find>
+      <find>getId</find>
+      <find>root</find>
+      <find>details</find>
+      <find>de</find>
+      <find>sell</find>
+      <find>handleBuy</find>
+      <find>rent</find>
+      <find>sold</find>
+      <find>seller</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -208,36 +266,48 @@
       <list>
         <option value="$PROJECT_DIR$/src/sample/Controller.java" />
         <option value="$PROJECT_DIR$/src/util/Connection.java" />
-        <option value="$PROJECT_DIR$/src/util/Connect.java" />
-        <option value="$PROJECT_DIR$/src/frames/App.java" />
-        <option value="$PROJECT_DIR$/src/frames/FXMLLogin.fxml" />
-        <option value="$PROJECT_DIR$/src/frames/FXMLNewUser.fxml" />
-        <option value="$PROJECT_DIR$/src/frames/NewUser.java" />
         <option value="$PROJECT_DIR$/src/frames/temp.java" />
-        <option value="$PROJECT_DIR$/src/frames/FXMLUserProfile.fxml" />
         <option value="$PROJECT_DIR$/src/DynamicTable.java" />
-        <option value="$PROJECT_DIR$/src/frames/UserProfile.java" />
         <option value="$PROJECT_DIR$/src/frames/DynamicTable.java" />
-        <option value="$PROJECT_DIR$/src/frames/Login.java" />
-        <option value="$PROJECT_DIR$/src/frames/FXMLSell.fxml" />
-        <option value="$PROJECT_DIR$/src/frames/FXMLMenu.fxml" />
         <option value="$PROJECT_DIR$/src/frames/Notify.java" />
         <option value="$PROJECT_DIR$/src/frames/DatabaseChangeListener.java" />
         <option value="$PROJECT_DIR$/src/frames/DBListener.java" />
-        <option value="$PROJECT_DIR$/src/frames/Menu.java" />
-        <option value="$PROJECT_DIR$/src/frames/Sell.java" />
+        <option value="$PROJECT_DIR$/src/frames/App.java" />
+        <option value="$PROJECT_DIR$/src/util/Connect.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLRentMenu.fxml" />
+        <option value="$PROJECT_DIR$/src/frames/RentMenu.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLBuy.fxml" />
         <option value="[Connection]consoles/Connection" />
+        <option value="$PROJECT_DIR$/src/frames/app.css" />
+        <option value="$PROJECT_DIR$/src/frames/Login.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLUserProfile.fxml" />
+        <option value="$PROJECT_DIR$/src/frames/UserProfile.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLLogin.fxml" />
+        <option value="$PROJECT_DIR$/src/frames/Sell.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLSell.fxml" />
+        <option value="$PROJECT_DIR$/src/frames/NewUser.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLRent.fxml" />
+        <option value="$PROJECT_DIR$/src/frames/Menu.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLNotify.fxml" />
+        <option value="$PROJECT_DIR$/src/frames/app1.css" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLMenu.fxml" />
+        <option value="$PROJECT_DIR$/src/frames/Notifs.java" />
+        <option value="$PROJECT_DIR$/src/frames/Rent.java" />
+        <option value="$PROJECT_DIR$/src/frames/Buy.java" />
+        <option value="$PROJECT_DIR$/src/frames/FXMLNewUser.fxml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="708" />
-    <option name="y" value="24" />
-    <option name="width" value="658" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="428" />
+    <option name="y" value="-4" />
+    <option name="width" value="654" />
+    <option name="height" value="756" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -247,27 +317,28 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="ShareIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareIT" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="ShareIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareIT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="ShareIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareIT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="frames" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="ShareIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareIT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -276,7 +347,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,35 +485,35 @@
     <option name="totallyTimeSpent" value="1302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="24" width="658" height="744" extended-state="4" />
+    <frame x="50" y="-11" width="1317" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" id="DB Browser" order="7" visible="true" weight="0.331307" />
+      <window_info id="DB Browser" order="7" weight="0.214342" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.21060842" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" weight="0.32704404" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" weight="0.32917318" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5011407" side_tool="true" weight="0.31475905" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32861635" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49885932" visible="true" weight="0.10452418" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.22616233" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" id="JetGradle" order="5" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.30722892" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0031201248" />
       <window_info anchor="bottom" id="Changes" order="9" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Database" order="6" />
@@ -452,7 +522,45 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Application Servers" order="13" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="7.6045626E-4" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="DB Execution Console" order="7" weight="0.32917318" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="JetGradle" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49885932" visible="true" weight="0.10452418" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="DB Browser" order="7" visible="true" weight="0.214342" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Changes" order="9" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5011407" side_tool="true" weight="0.31475905" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.21060842" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0031201248" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" weight="0.04491726" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="7.6045626E-4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -466,205 +574,282 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="db://[Connection]tables/app/products">
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_rent" />
+    <entry file="db://[Connection]tables/app/products_rent" />
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="file://$PROJECT_DIR$/src/frames/UserProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products" />
+    <entry file="db://[Connection]tables/app/products" />
+    <entry file="db://[Connection]tables/app/products" />
+    <entry file="db://[Connection]tables/app/products" />
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="db://[Connection]tables/app/login" />
+    <entry file="db://[Connection]tables/app/login" />
+    <entry file="db://[Connection]tables/app/login" />
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="db://[Connection]tables/app/products" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="file://$PROJECT_DIR$/src/frames/Notifs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="51" column="73" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://[Connection]tables/app/rent">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="3" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="item" position="2" visible="true" />
+          </columns>
+          <sorting>
+            <column name="id" index="1" direction="ASCENDING" />
+          </sorting>
+          <content-types />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frames/Rent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://[Connection]tables/app/products_sell" />
+    <entry file="file://$PROJECT_DIR$/src/frames/Buy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="db://[Connection]tables/app/buy" />
+    <entry file="db://[Connection]tables/app/buy">
       <provider selected="true" editor-type-id="1.DATA">
         <state row-count="0" readonly="false">
           <columns>
             <column name="id" position="0" visible="true" />
-            <column name="pname" position="1" visible="true" />
-            <column name="rating" position="3" visible="true" />
-            <column name="cost" position="4" visible="true" />
-            <column name="details" position="5" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="item" position="2" visible="true" />
           </columns>
           <sorting />
           <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frames/Sell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="db://[Connection]tables/app/buy">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="item" position="2" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frames/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="db://[Connection]tables/app/buy">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="item" position="2" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/util/Connection.java" />
-    <entry file="file://$PROJECT_DIR$/src/frames/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+    <entry file="db://[Connection]tables/app/products_sell">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="pname" position="2" visible="true" />
+            <column name="rating" position="3" visible="true" />
+            <column name="cost" position="4" visible="true" />
+            <column name="details" position="5" visible="true" />
+            <column name="category" position="6" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frames/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="db://[Connection]tables/app/products_sell">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="pname" position="2" visible="true" />
+            <column name="rating" position="3" visible="true" />
+            <column name="cost" position="4" visible="true" />
+            <column name="details" position="5" visible="true" />
+            <column name="category" position="6" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/util/Connection.java" />
-    <entry file="file://$PROJECT_DIR$/src/frames/App.java">
+    <entry file="file://$PROJECT_DIR$/src/frames/app1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="442">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frames/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="db://[Connection]tables/app/buy">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="item" position="2" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/util/Connection.java" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]tables/app/login" />
-    <entry file="jar://$USER_HOME$/Downloads/jdk1.8.0_161/javafx-src.zip!/javafx/scene/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="2533" column="27" selection-start-line="2533" selection-start-column="27" selection-end-line="2533" selection-end-column="27" />
+    <entry file="db://[Connection]tables/app/buy">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="item" position="2" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frames/temp.java" />
-    <entry file="file://$PROJECT_DIR$/src/DynamicTable.java" />
-    <entry file="file://$PROJECT_DIR$/src/frames/DynamicTable.java" />
-    <entry file="file://$PROJECT_DIR$/src/frames/UserProfile.java" />
-    <entry file="file://$PROJECT_DIR$/src/frames/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="1" selection-end-line="2" />
+    <entry file="db://[Connection]tables/app/products_rent">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="pname" position="2" visible="true" />
+            <column name="rating" position="3" visible="true" />
+            <column name="cost" position="4" visible="true" />
+            <column name="details" position="5" visible="true" />
+            <column name="category" position="6" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="file://$PROJECT_DIR$/src/frames/Notify.java" />
-    <entry file="file://$PROJECT_DIR$/src/frames/DatabaseChangeListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/util/Connect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="db://[Connection]tables/app/login">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="4" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="password" position="2" visible="true" />
+            <column name="hostel" position="3" visible="true" />
+            <column name="contact" position="4" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frames/DBListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/frames/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="db://[Connection]consoles/Connection">
+      <provider selected="true" editor-type-id="0.CONSOLE">
+        <state line="25" column="0" selection-start="612" selection-end="612" vertical-scroll-proportion="-10.416667" current-schema="app" session-id="MAIN">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frames/Login.java">
+    <entry file="file://$PROJECT_DIR$/src/frames/FXMLBuy.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="db://[Connection]tables/app/buy">
+      <provider selected="true" editor-type-id="1.DATA">
+        <state row-count="0" readonly="false">
+          <columns>
+            <column name="id" position="0" visible="true" />
+            <column name="name" position="1" visible="true" />
+            <column name="item" position="2" visible="true" />
+          </columns>
+          <sorting />
+          <content-types />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frames/FXMLNewUser.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/frames/NewUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="file://$PROJECT_DIR$/src/frames/Sell.java">
+    <entry file="file://$PROJECT_DIR$/src/frames/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="559">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="db://[Connection]consoles/Connection" />
-    <entry file="db://[Connection]consoles/Connection">
-      <provider selected="true" editor-type-id="0.CONSOLE">
-        <state line="8" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" current-schema="app" session-id="MAIN">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="db://[Connection]tables/app/login" />
-    <entry file="db://[Connection]tables/app/login" />
-    <entry file="db://[Connection]tables/app/login">
-      <provider selected="true" editor-type-id="1.DATA">
-        <state row-count="7" readonly="false">
-          <columns>
-            <column name="id" position="0" visible="true" />
-            <column name="name" position="1" visible="true" />
-            <column name="password" position="2" visible="true" />
-          </columns>
-          <sorting />
-          <content-types />
-        </state>
-      </provider>
-    </entry>
-    <entry file="db://[Connection]tables/app/products">
-      <provider selected="true" editor-type-id="1.DATA">
-        <state row-count="2" readonly="false">
-          <columns>
-            <column name="id" position="0" visible="true" />
-            <column name="pname" position="1" visible="true" />
-            <column name="rating" position="3" visible="true" />
-            <column name="cost" position="4" visible="true" />
-            <column name="details" position="5" visible="true" />
-          </columns>
-          <sorting />
-          <content-types />
+    <entry file="file://$PROJECT_DIR$/src/frames/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
         </state>
       </provider>
     </entry>

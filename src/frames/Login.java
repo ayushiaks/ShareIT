@@ -16,6 +16,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
+import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
 public class Login implements Initializable {
@@ -25,7 +26,8 @@ public class Login implements Initializable {
 
     @FXML
     private PasswordField textPassword;
-
+    public static int id;
+    public static String me;
     Stage dialogStage = new Stage();
     Scene scene;
 
@@ -46,9 +48,11 @@ public class Login implements Initializable {
 
 
         try{
+
             preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setString(1, name);
             preparedStatement.setString(2, password);
+
             resultSet = preparedStatement.executeQuery();
             System.out.println(resultSet);
             if(!resultSet.next()){
@@ -63,9 +67,19 @@ public class Login implements Initializable {
                 dialogStage.show();
             }
 
+                id = resultSet.getInt(1);
+                me = resultSet.getString(2);
+            System.out.println("try"+id);
+            System.out.println("try" + me);
+            System.out.println(Font.getFamilies());
+               //return id;
+
         }catch(Exception e){
             e.printStackTrace();
         }
+
+        System.out.println("2"+id);
+        //return 0;
     }
 
     public static void infoBox(String infoMessage, String titleBar, String headerMessage)
@@ -97,6 +111,13 @@ public class Login implements Initializable {
     public void initialize(URL url, ResourceBundle rb) {
 
     }
+
+    public static int getId()
+    {
+        System.out.println("get"+id);
+        return id;
+    }
+
 }
 
 

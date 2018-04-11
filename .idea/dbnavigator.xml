@@ -34,20 +34,35 @@
       <console name="Connection 1" type="STANDARD" />
     </connection>
     <connection id="e2d83124-c76e-4427-a4f0-0ab37616be0c">
-      <console name="Connection" type="STANDARD"><![CDATA[CREATE TABLE login(
+      <console name="Connection" type="STANDARD"><![CDATA[CREATE TABLE products_sell(
 id int not null primary key auto_increment,
 name varchar(55) not null,
-password varchar(55) not null
-);
-
-INSERT INTO login(name, password) VALUES('ayushi', '12345');
-
-CREATE TABLE products(
-id int not null primary key auto_increment,
 pname varchar(55) not null,
 rating varchar(55) not null,
 cost varchar(55) not null,
-details varchar(55) not null
+details varchar(55) not null,
+category varchar(55) not null
+);
+
+CREATE TABLE products_rent(
+id int not null primary key auto_increment,
+name varchar(55) not null,
+pname varchar(55) not null,
+rating varchar(55) not null,
+cost varchar(55) not null,
+details varchar(55) not null,
+category varchar(55) not null
+);
+
+CREATE TABLE buy(
+id int not null primary key auto_increment,
+name varchar(55) not null,
+item varchar(55) not null
+);
+CREATE TABLE rent(
+id int not null primary key auto_increment,
+name varchar(55) not null,
+item varchar(55) not null
 );]]></console>
     </connection>
   </component>
@@ -56,11 +71,20 @@ details varchar(55) not null
     <connection id="e2d83124-c76e-4427-a4f0-0ab37616be0c" />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-list connection-id="e2d83124-c76e-4427-a4f0-0ab37616be0c" dataset="app.buy" active-filter-id="EMPTY_FILTER" />
     <filter-list connection-id="e2d83124-c76e-4427-a4f0-0ab37616be0c" dataset="app.products" active-filter-id="EMPTY_FILTER" />
+    <filter-list connection-id="e2d83124-c76e-4427-a4f0-0ab37616be0c" dataset="app.products_sell" active-filter-id="EMPTY_FILTER" />
     <filter-list connection-id="e2d83124-c76e-4427-a4f0-0ab37616be0c" dataset="app.login" active-filter-id="EMPTY_FILTER" />
+    <filter-list connection-id="e2d83124-c76e-4427-a4f0-0ab37616be0c" dataset="app.products_rent" active-filter-id="EMPTY_FILTER" />
+    <filter-list connection-id="e2d83124-c76e-4427-a4f0-0ab37616be0c" dataset="app.rent" active-filter-id="EMPTY_FILTER" />
+    <filter-list connection-id="b1387485-791b-456d-a5f5-b187f284dba9" dataset="app.products" active-filter-id="EMPTY_FILTER" />
+    <filter-list connection-id="b1387485-791b-456d-a5f5-b187f284dba9" dataset="app.login" active-filter-id="EMPTY_FILTER" />
+    <filter-list connection-id="b1387485-791b-456d-a5f5-b187f284dba9" dataset="app.rent" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
-    <last-used-providers />
+    <last-used-providers>
+      <object-type object-type="TABLE" editor-provider="DATA" />
+    </last-used-providers>
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
     <method-browser />
